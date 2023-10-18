@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/LanangGigih/LanangGigih/main/intro)](https://www.linkedin.com/in/gigih-lanang/)
+[![](https://raw.githubusercontent.com/LanangGigih/LanangGigih/main/intro.svg)](https://www.linkedin.com/in/gigih-lanang/)
 
 
 
