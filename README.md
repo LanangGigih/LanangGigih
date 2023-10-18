@@ -1,11 +1,4 @@
-# Halo semua! 👋
-
-Perkenalkan nama saya **Mochamad Gigih Lanang Prakoso**.
-
-Saya seorang **Mahasiswa Vokasi** di Universitas Negeri Surabaya
-
-Saya saat ini sedang belajar tentang backend developer 
-
+[![](https://raw.githubusercontent.com/fikriyusrihan/fikriyusrihan/main/intro.svg)](https://www.linkedin.com/in/fikri-yusrihan/)
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/gigih-lanang/)ku ya.
 ### Now Playing 🎧
