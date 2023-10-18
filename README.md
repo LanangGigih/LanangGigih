@@ -1,6 +1,9 @@
-[![](https://raw.githubusercontent.com/fikriyusrihan/fikriyusrihan/main/intro.svg)](https://www.linkedin.com/in/fikri-yusrihan/)
+[![](https://raw.githubusercontent.com/fikriyusrihan/fikriyusrihan/main/intro.svg)](https://www.linkedin.com/in/gigih-lanang/)
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/gigih-lanang/)ku ya.
+
+
+
+
 ### Now Playing 🎧
 
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/31avorxfq5uiaggpmbm3e2ud7wta)
