@@ -251,7 +251,7 @@
   <!-- Intro -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
     <rect width="200" height="42" rx="18.0355" />
-    <text x="15" y="27">Hi there, I'm Fikri 🙋‍♂️</text>
+    <text x="15" y="27">Hi there, I am Gigih 🙋‍♂️</text>
   </g>
 
   <!-- typing 2 -->
@@ -301,7 +301,7 @@
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="455" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">I have an interest in software engineering,</text>
-    <text x="15" y="50">especially in Android and Back-end development 🧑‍💻</text>
+    <text x="15" y="50">especially in Android and Back-end development </text>
   </g>
 
   <!-- typing 4 -->
@@ -327,7 +327,7 @@
     <rect width="530" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">
       You can find me on Linkedin at
-      <a xlink:href="https://www.linkedin.com/in/fikri-yusrihan/">linkedin.com/in/fikri-yusrihan/</a>
+      <a xlink:href=https://www.linkedin.com/in/gigih-lanang/">https://www.linkedin.com/in/gigih-lanang//</a>
     </text>
   </g>
 
