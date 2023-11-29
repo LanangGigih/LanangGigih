@@ -6,7 +6,7 @@
 
 ### Now Playing 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)]([https://open.spotify.com/user/31avorxfq5uiaggpmbm3e2ud7wta?si=SZC84sCIR-KCJHsOB1JGBQ ])
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)]([ ])
 <br/>
 ---
 
